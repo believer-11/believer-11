@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,spring,mysql,mongo,flask,git,github,githubactions,linux,aws,docker,kubernetes,prometheus,grafana,terraform,jenkins,argocd&perline=10&theme=dark" />
+</div>
