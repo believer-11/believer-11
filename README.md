@@ -1,2 +1,2 @@
 <div align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana,aws,linux,git,github,python,java,flask,spring,html,css,javascript,mysql,mongo,kafka,nginx,openclaw,moltbot&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana,aws,linux,git,github,python,java,flask,spring,html,css,javascript,mysql,mongo,kafka,nginx,go&perline=10&theme=dark" />
