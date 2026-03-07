@@ -12,8 +12,8 @@
 _(SonarQube, Helm, Trivy, ArgoCD)_
 <br/>
 <a href="https://sonarqube.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="48" height="48" alt="SonarQube" /></a>&nbsp;
-<a href="https://helm.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="48" height="48" alt="Helm" /></a>&nbsp;
-<a href="https://trivy.dev/"><img src="https://github.com/aquasecurity/trivy/raw/main/docs/imgs/logo.png" width="48" height="48" alt="Trivy" style="border-radius:10px" /></a>&nbsp;
+<a href="https://helm.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="48" height="48" alt="Helm" /></a><br/>
+<a href="https://trivy.dev/"><img src="https://raw.githubusercontent.com/aquasecurity/trivy-docker-extension/main/trivy.svg" width="48" height="48" title="Trivy"/></a>&nbsp;
 <a href="https://argoproj.github.io/cd/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="48" height="48" alt="ArgoCD" /></a>
 <br/>
 
