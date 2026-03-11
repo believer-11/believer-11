@@ -33,8 +33,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,spring,mysql,mongo,flask,git,github,githubactions,linux,aws,docker,kubernetes,prometheus,grafana,terraform,jenkins,ansible,gitlab,go&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,spring,mysql,mongo,flask,git,github,githubactions,linux,aws,docker,kubernetes,prometheus,grafana,terraform,jenkins,ansible,gitlab&perline=8&theme=dark"/>
+
+<br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48" title="ArgoCD"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" title="Go"/>
 
-</div>>
+</div>
